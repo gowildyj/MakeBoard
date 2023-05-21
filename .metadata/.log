@@ -1668,3 +1668,9 @@ java.io.FileNotFoundException: /opt/homebrew/Cellar/tomcat/10.1.9/conf/catalina.
 
 !ENTRY org.eclipse.jdt.launching 4 4 2023-05-21 12:38:26.458
 !MESSAGE Xbootclasspath option have been removed as not supported beyond Java 8.
+
+!ENTRY org.eclipse.jdt.launching 4 4 2023-05-21 14:49:27.903
+!MESSAGE Xbootclasspath option have been removed as not supported beyond Java 8.
+
+!ENTRY org.eclipse.jdt.launching 4 4 2023-05-21 14:49:28.286
+!MESSAGE Xbootclasspath option have been removed as not supported beyond Java 8.
